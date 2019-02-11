@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/token/CurrentRequest.ts"],"names":[],"mappings":";;AAAA,iCAA6B;AAGhB,QAAA,cAAc,GAAG,IAAI,cAAK,CAAU,SAAS,CAAC,CAAC","file":"CurrentRequest.js","sourcesContent":["import {Token} from \"typedi\";\nimport {Request} from \"express\";\n\nexport const CurrentRequest = new Token<Request>(\"Request\");"],"sourceRoot":".."}
