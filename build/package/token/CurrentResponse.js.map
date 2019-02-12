@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/token/CurrentResponse.ts"],"names":[],"mappings":";;AAAA,iCAA6B;AAGhB,QAAA,eAAe,GAAG,IAAI,cAAK,CAAW,UAAU,CAAC,CAAC","file":"CurrentResponse.js","sourcesContent":["import {Token} from \"typedi\";\nimport {Response} from \"express\";\n\nexport const CurrentResponse = new Token<Response>(\"Response\");"],"sourceRoot":".."}
