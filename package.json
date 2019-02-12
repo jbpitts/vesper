@@ -1,12 +1,12 @@
 {
-  "name": "vesper",
+  "name": "vesper-jbpitts",
   "version": "0.1.9",
   "description": "GraphQL Server Side Framework for TypeScript and JavaScript.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "James Pitts",
+    "email": "jbpitts@gmail.com"
   },
   "repository": {
     "type": "git",
